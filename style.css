@@ -13,3 +13,15 @@ body {
 #TODO-aendern {
     font-size: 14px;
 }
+
+#impressum_text {
+    padding: 18px;
+}
+
+#progress{
+    padding-top: 6px;  
+}
+
+.form-range {
+    width: 790px;
+}
