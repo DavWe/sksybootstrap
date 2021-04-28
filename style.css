@@ -19,9 +19,9 @@ body {
 }
 
 #progress{
-    padding-top: 6px;  
+    padding-top: 10px;  
 }
 
 .form-range {
-    width: 790px;
+    width: 100%;
 }
