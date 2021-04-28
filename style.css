@@ -25,3 +25,7 @@ body {
 .form-range {
     width: 100%;
 }
+
+#edit-hundred {
+    float: right;
+}
